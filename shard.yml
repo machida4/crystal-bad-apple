@@ -1,0 +1,13 @@
+name: crystal-bad-apple
+version: 0.1.0
+
+authors:
+  - machida <machida@kmc.gr.jp>
+
+targets:
+  crystal-bad-apple:
+    main: src/crystal-bad-apple.cr
+
+crystal: 1.0.0
+
+license: MIT
