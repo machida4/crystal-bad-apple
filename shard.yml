@@ -1,13 +1,6 @@
 name: crystal-bad-apple
 version: 0.1.0
 
-dependencies:
-  progress_bar.cr:
-    github: tpei/progress_bar.cr
-    branch: master
-  bitmap.cr:
-    github: machida4/bitmap.cr
-    branch: master
 authors:
   - machida <machida@kmc.gr.jp>
 
